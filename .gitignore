@@ -1,0 +1,22 @@
+# OS files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# SQL Server
+*.ldf
+*.mdf
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+~$*
